@@ -32,7 +32,7 @@ export-env {
       }
     }
 
-    let virtual_env = 'C:\Users\Саша\Documents\GitHub\My-first-repository\.venv'
+    let virtual_env = 'C:\Users\Саша\Documents\GitHub\Case-ReminderDrinkMedice\.venv'
     let bin = 'Scripts'
 
     let is_windows = ($nu.os-info.family) == 'windows'

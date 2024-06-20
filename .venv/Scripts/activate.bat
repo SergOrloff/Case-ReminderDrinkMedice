@@ -1,4 +1,4 @@
-@set "VIRTUAL_ENV=C:\Users\Саша\Documents\GitHub\My-first-repository\.venv"
+@set "VIRTUAL_ENV=C:\Users\Саша\Documents\GitHub\Case-ReminderDrinkMedice\.venv"
 
 @set "VIRTUAL_ENV_PROMPT="
 @if NOT DEFINED VIRTUAL_ENV_PROMPT (

@@ -121,7 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+../Case-Accounting-for-tasks/.venv
 env/
 venv/
 ENV/

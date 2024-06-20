@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Case-Accounting-for-tasks/.idea/Case-Accounting-for-tasks.iml" filepath="$PROJECT_DIR$/../Case-Accounting-for-tasks/.idea/Case-Accounting-for-tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/My-first-repository.iml" filepath="$PROJECT_DIR$/.idea/My-first-repository.iml" />
     </modules>
   </component>

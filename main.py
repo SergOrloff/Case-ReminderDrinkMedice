@@ -3,7 +3,6 @@ import datetime
 import time
 import threading
 import random
-from time import sleep
 
 TOKEN = '7478222461:AAEx_6JUHX6ACbmQOBKId9GbZageNrdIvtQ'
 user_data={}

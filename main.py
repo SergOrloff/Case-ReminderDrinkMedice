@@ -298,7 +298,6 @@ bot.polling(none_stop=True)
 #         time.sleep(5)
 #         continue
 
-
 # Обработчик команды /stop
 # def stop(update, context):
 #     context.bot.send_message(chat_id=update.effective_chat.id, text="Bot is stopping...")
@@ -315,15 +314,3 @@ bot.polling(none_stop=True)
 # updater.start_polling()
 # updater.idle()
 
-
-
-
-
-
-
-
-# Рекомендуем создать команду help.
-# Теперь ты можешь:
-# попробовать придумать какие-то команды самостоятельно;
-# усовершенствовать эту программу и додумать для нее дополнительный функционал.
-# Попробуй доработать этот кейс по-своему. Чем больше необычных вещей ты в него внесешь, тем лучше будет проект.
